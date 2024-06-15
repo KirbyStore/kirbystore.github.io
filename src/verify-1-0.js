@@ -1,11 +1,4 @@
-/*
-VaultCord.com Discord member restore bot
-Copyright: This code is NOT open source. If you are attempting to host it yourself, you should be requesting permission otherwise you may be violating our copyright.
-DO NOT TRY TO HOST THIS YOURSELF! Your site will likely break when we do updates.
 
-You can customize messages without hosting this script, which is recommended https://github.com/VaultCord/vaultcord.github.io/#verified-message
-Captcha not working? Captcha only works on .github.io and .novanode.win. We recommend you instead enable a Captcha in your Cloudflare settings https://developers.cloudflare.com/fundamentals/reference/under-attack-mode/
-*/
 window.onload = async (event) => {
 	var serverTitleElement = document.getElementById("serverTitle");
 	var serverDescElement = document.getElementById("serverInstructions");
