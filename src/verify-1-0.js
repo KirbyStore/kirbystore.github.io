@@ -164,5 +164,5 @@ async function unlinkServer() {
 	}
 	
 	serverTitleElement.textContent="How to unlink:";
-	serverDescElement.innerHTML = `The bot's username is <strong>${body.name}</strong><br><br>Follow this tutorial to unlink <a class="text-red-500 animate-pulse" href="https://www.iorad.com/player/2100432/Discord---How-to-deauthorize-an-app" target="_blank">https://www.iorad.com/player/2100432/Discord---How-to-deauthorize-an-app</a>`;
+	serverDescElement.innerHTML = ``;
 }
